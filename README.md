@@ -6,6 +6,7 @@
   * Normal equation approach
   * Why least squares? Probabilistic interpretation
 * Logistic regression
+* Perceptron learning algorithm
 * Generalized linear models
   * Exponential family
 * Generative learning algorithms

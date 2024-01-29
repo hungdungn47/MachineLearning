@@ -11,3 +11,4 @@
 * Generative learning algorithms
   * Multivariate Gaussian
   * Gaussian discriminal analysis
+  * Naive Bayes

@@ -12,3 +12,5 @@
   * Multivariate Gaussian
   * Gaussian discriminal analysis
   * Naive Bayes
+* Decision tree
+* k nearest neighbors
